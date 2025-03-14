@@ -1,5 +1,5 @@
 # Articles
-A curated of articles I find interesting
+A curated list of articles I find interesting
 
 ## C++
 - [12 Ways C++ Developers Increase Cyber Attack Vulnerabilities and How to Prevent Them](https://johnfarrier.com/12-ways-c-developers-increase-cyber-attack-vulnerabilities-and-how-to-prevent-them/?utm_source=rss&utm_medium=rss&utm_campaign=12-ways-c-developers-increase-cyber-attack-vulnerabilities-and-how-to-prevent-them)
